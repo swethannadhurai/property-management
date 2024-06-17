@@ -1,0 +1,6 @@
+com\mycompany\propertymanagement\controller\calculatorController.class
+com\mycompany\propertymanagement\dto\CalculatorDTO.class
+com\mycompany\propertymanagement\controller\propertyController.class
+com\mycompany\propertymanagement\dto\PropertyDTO.class
+com\mycompany\propertymanagement\controller\CslculatorMain.class
+com\mycompany\propertymanagement\PropertyManagementApplication.class
